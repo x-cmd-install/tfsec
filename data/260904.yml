@@ -7,7 +7,7 @@ about:
   head: 
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:21:27Z
+  collectedAt: 2026-09-04T21:12:41Z
 timeline:
   created: 
   lastCommit: 
@@ -80,6 +80,74 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
+path: /home/runner/.x-repo/github.com/aquasecurity/tfsec
+collectedAt: 2026-09-04T21:12:53Z
+loc:
+  Go:
+    code: 5387
+    comments: 69
+    blanks: 695
+    files: 37
+  Hcl:
+    code: 935
+    comments: 22
+    blanks: 223
+    files: 65
+  Yaml:
+    code: 428
+    comments: 0
+    blanks: 12
+    files: 5
+  Sh:
+    code: 176
+    comments: 7
+    blanks: 38
+    files: 6
+  Makefile:
+    code: 57
+    comments: 1
+    blanks: 16
+    files: 1
+  Json:
+    code: 55
+    comments: 0
+    blanks: 1
+    files: 5
+  Python:
+    code: 36
+    comments: 1
+    blanks: 15
+    files: 1
+  Css:
+    code: 20
+    comments: 0
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 10
+    comments: 4
+    blanks: 6
+    files: 2
+  OpenPolicyAgent:
+    code: 5
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14220
+    blanks: 9187
+    files: 370
+  Text:
+    code: 0
+    comments: 4
+    blanks: 0
+    files: 1
+total:
+  code: 7535
+  comments: 14339
+  blanks: 10206
+  files: 495
 ---
 date: "2026-03-16"
 repo:
