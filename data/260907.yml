@@ -5,7 +5,7 @@ about:
   head: 
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T03:58:06Z
+  collectedAt: 2026-09-07T20:07:55Z
 timeline:
   created: 
   lastCommit: 
@@ -79,7 +79,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/aquasecurity/tfsec
-collectedAt: 2026-09-07T03:58:35Z
+collectedAt: 2026-09-07T20:08:23Z
 loc:
   Go:
     code: 5387
@@ -284,35 +284,35 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T03:58:36+00:00
+  collectedAt: 2026-09-07T20:08:24+00:00
   platform:
     darwin/arm64:
       name:  tfsec_1.28.14_darwin_arm64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_darwin_arm64.tar.gz
-      size:  30681425
-      score: 145
+      size:  0
+      score: 143
     darwin/amd64:
       name:  tfsec_1.28.14_darwin_amd64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_darwin_amd64.tar.gz
-      size:  32540382
-      score: 145
+      size:  0
+      score: 143
     linux/arm64:
       name:  tfsec_1.28.14_linux_arm64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_linux_arm64.tar.gz
-      size:  29231944
-      score: 145
+      size:  0
+      score: 143
     linux/amd64:
       name:  tfsec_1.28.14_linux_amd64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_linux_amd64.tar.gz
-      size:  31821460
-      score: 145
+      size:  0
+      score: 143
     win/arm64:
       name:  tfsec_1.28.14_windows_arm64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_windows_arm64.tar.gz
-      size:  29406064
-      score: 45
+      size:  0
+      score: 43
     win/amd64:
       name:  tfsec_1.28.14_windows_amd64.tar.gz
       url:   https://github.com/aquasecurity/tfsec/releases/download/v1.28.14/tfsec_1.28.14_windows_amd64.tar.gz
-      size:  32467896
-      score: 45
+      size:  0
+      score: 43
