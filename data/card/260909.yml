@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:06:15Z
+  collectedAt: 2026-09-09T18:25:19Z
 timeline:
   created: 
   lastCommit: 
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `aquasecurity` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/aquasecurity/tfsec
-collectedAt: 2026-09-09T04:06:44Z
+collectedAt: 2026-09-09T18:26:13Z
 loc:
   Go:
     code: 5387
